@@ -1,0 +1,41 @@
+#face{
+    background-color: yellow;
+    height: 350px;
+    width: 350px;
+    border-radius: 75%;
+    box-shadow: 5px 5px 5px black;
+    margin: auto;
+    margin-top: 150px;
+}
+#eyes{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 90px;
+}
+#leye{
+    background: black;
+    height: 80px;
+    width: 35px;
+    border-radius: 75%;
+    margin-top: 18px;
+}
+#reye{
+    background: black;
+    height: 80px;
+    width: 35px;
+    border-radius: 75%;
+    margin-top: 18px;
+}
+#tongue{
+    background: black;
+    height: 10px;
+    width: 150px;
+    margin: auto;
+    margin-top: 55px;
+    
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1350668422/photo/hookah-colorful-swirling-smoke-wallpaper-abstract-dancing-cloud-background-paint-in-water.jpg?s=612x612&w=0&k=20&c=dCyqZdZ74WmnTOr2_Ja0ctpKboIPgyz1K6urmAgUhCw=);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
